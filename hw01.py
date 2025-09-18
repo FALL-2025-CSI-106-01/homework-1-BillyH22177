@@ -67,4 +67,4 @@ print("Part 3: result =", result3)
 # Your code for part 4 under this line and before the print statements
 result4 = int(a%b)
 print("Part 4: result =", result4)
-# End of Part 4 ----------------------
+# End of Part 4 ---------------------
